@@ -22,8 +22,9 @@ You can view my portfolio [here](https://rehobothjnr.pythonanywhere.com/).
 
 ## 💼 Projects
 
-- **[Portfo](#)**: A templates of my porfolio
-- **[BlindAssist](#)**: A project that helps identify objects and give a real life description for blind person
+- **[Portfolio](https://github.com/kehman18/portfolio)**: A templates of my porfolio
+- **[Blind Assist](https://github.com/kehman18/blind_assist)**: A project that helps identify objects and give a real life description for blind person
+- **[Link Shortener](https://github.com/kehman18/Link_shortener)**: Useful in shortening links
 
 ---
 
@@ -45,9 +46,9 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ## 📊 GitHub Stats
 
-![Kehinde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehoboth_jnr&show_icons=true&theme=radical)
+![Kehinde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kehman18&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehoboth_jnr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehman18&layout=compact&theme=radical)
 
 ---
 
