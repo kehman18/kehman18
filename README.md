@@ -52,8 +52,9 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ## 📊 GitHub Stats
 
-![Kehinde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kehman18&show_icons=true&theme=radical)
+![Kehinde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kehman18&show_icons=true&theme=radical)<br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=kehman18&theme=dark&hide_border=false)<br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehman18&show_icons=true&theme=radical)
 
