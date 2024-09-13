@@ -1,13 +1,14 @@
 # Hi there, I'm Kehinde Adekola 👋
 
-I'm a **Web Developer** specializing in **Python**, **Flask**, **Django**, and **SQL**. I'm passionate about **web development**, **web scraping**, and **automation**.
+I am a Backend Web developer. i believe life is simple. So, i live everyday with my heads high.
 
 ---
 
 ## 🌐 Socials
 
 - [LinkedIn](https://www.linkedin.com/in/kehinde-adekola-p-75042124b/)  
-- [Twitter](https://twitter.com/keh_man21)  
+- [Twitter](https://twitter.com/keh_man21)
+- [Whatsapp](+2349028373561)
 - [StackOverflow](https://stackoverflow.com/users/17832080/kehinde-adekola)  
 - [Reddit](https://www.reddit.com/user/Unlucky-Bridge-805/)  
 - [Instagram](https://www.instagram.com/_innovative_k/)
@@ -19,7 +20,9 @@ I'm a **Web Developer** specializing in **Python**, **Flask**, **Django**, and *
 You can view my portfolio [here](https://rehobothjnr.pythonanywhere.com/).
 
 # 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ---
 
 ## 💼 Projects
@@ -40,9 +43,10 @@ Feel free to reach me via email: **[kehindeadekola96@gmail.com](mailto:kehindead
 
 I also have a passion for cars. Check out my automotive-related social media:
 
-- [Instagram](#)
-- [YouTube](#)
-- [Facebook](#)
+- [Instagram](https://www.instagram.com/greenline_garage?igsh=Y3psdnRjNXR3bmZ1)
+- [YouTube](https://youtube.com/@greenlinegarage?si=EmfMKcooyigsWRlY)
+- [Facebook](https://www.facebook.com/share/me6ySmA8eQgMhw5n/?mibextid=qi2Omg)
+- [Twitter](https://x.com/green_rims)
 
 ---
 
