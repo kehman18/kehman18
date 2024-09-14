@@ -8,10 +8,16 @@ I am a Backend Web developer. i believe life is simple. So, i live everyday with
 
 - [LinkedIn](https://www.linkedin.com/in/kehinde-adekola-p-75042124b/)  
 - [Twitter](https://twitter.com/keh_man21)
-- [Whatsapp](+2349028373561)
+- [Whatsapp](https://wa.me/2349028373561)
 - [StackOverflow](https://stackoverflow.com/users/17832080/kehinde-adekola)  
 - [Reddit](https://www.reddit.com/user/Unlucky-Bridge-805/)  
 - [Instagram](https://www.instagram.com/_innovative_k/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-username)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-username)
 
 ---
 
