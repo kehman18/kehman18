@@ -59,6 +59,11 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kehman18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 # 🖼️ Image Gallery
 
 * Placeholder for your Profile Image
