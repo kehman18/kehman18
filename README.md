@@ -16,7 +16,7 @@ I am a Backend Web developer. i believe life is simple. So, i live everyday with
 
 # 📂 Portfolio
 
-You can view my portfolio [here](https://rehobothjnr.pythonanywhere.com/).
+You can view my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rehobothjnr.pythonanywhere.com/).
 
 # 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -25,9 +25,9 @@ You can view my portfolio [here](https://rehobothjnr.pythonanywhere.com/).
 ---
 
 # 💼 Projects
-[![Portfo](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/kehman18/portfolio): This is a templates to my portfolio repo
-[![BlindAssist](https://img.shields.io/badge/GitHub-BlindAssist-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/blind_assist): A project that helps identify objects and give a real life description for blind person
-[![Link Shortener](https://img.shields.io/badge/GitHub-BlindAssist-100000?style=for-the-badge&logo=github&logoColor=green)](https://github.com/kehman18/Link_shortener)**: Useful in shortening links
+[![Portfo](https://img.shields.io/badge/GitHub-Portfo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehoboth_jnr/portfo): This is a templates to my portfolio repository.</br>
+[![BlindAssist](https://img.shields.io/badge/GitHub-BlindAssist-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/blind_assist): A project that helps identify objects and give a real life description for blind person.</br>
+[![Link Shortener](https://img.shields.io/badge/GitHub-BlindAssist-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/Link_shortener): Useful in shortening links
 
 ---
 
