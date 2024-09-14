@@ -13,11 +13,13 @@ I am a Backend Web developer. i believe life is simple. So, i live everyday with
 - [Reddit](https://www.reddit.com/user/Unlucky-Bridge-805/)  
 - [Instagram](https://www.instagram.com/_innovative_k/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-username)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kehinde-adekola-p-75042124b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/keh_man21)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349028373561)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17832080/kehinde-adekola)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Unlucky-Bridge-805/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_innovative_k/)
+
 
 ---
 
@@ -49,10 +51,12 @@ Feel free to reach me via email: **[kehindeadekola96@gmail.com](mailto:kehindead
 
 I also have a passion for cars. Check out my automotive-related social media:
 
-- [Instagram](https://www.instagram.com/greenline_garage?igsh=Y3psdnRjNXR3bmZ1)
-- [YouTube](https://youtube.com/@greenlinegarage?si=EmfMKcooyigsWRlY)
-- [Facebook](https://www.facebook.com/share/me6ySmA8eQgMhw5n/?mibextid=qi2Omg)
-- [Twitter](https://x.com/green_rims)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/greenline_garage?igsh=Y3psdnRjNXR3bmZ1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@greenlinegarage?si=EmfMKcooyigsWRlY)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile-name)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/me6ySmA8eQgMhw5n/?mibextid=qi2Omg)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349028373561)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/keh_man21)
 
 ---
 
