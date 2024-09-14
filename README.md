@@ -25,9 +25,9 @@ You can view my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-0
 ---
 
 # 💼 Projects
-[![Portfo](https://img.shields.io/badge/GitHub-Portfo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/portfolio): This is a templates to my portfolio repository.</br>
+[![Portfo](https://img.shields.io/badge/GitHub-portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/portfolio): This is a templates to my portfolio repository.</br>
 [![BlindAssist](https://img.shields.io/badge/GitHub-BlindAssist-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/blind_assist): A project that helps identify objects and give a real life description for blind person.</br>
-[![Link Shortener](https://img.shields.io/badge/GitHub-BlindAssist-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/Link_shortener): Useful in shortening links
+[![Link Shortener](https://img.shields.io/badge/GitHub-Link_shortener-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/Link_shortener): Useful in shortening links
 
 ---
 
