@@ -1,10 +1,10 @@
 # Hi there, I'm Kehinde Adekola 👋
 
-I am a Backend Web developer. i believe life is simple. So, i live everyday with my heads high.
+I am a Backend Web developer. I believe life is simple. So, I live everyday with my heads high.
 
 ---
 
-# 🌐 Socials
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kehinde-adekola-p-75042124b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FuturePresido19)
@@ -14,30 +14,30 @@ I am a Backend Web developer. i believe life is simple. So, i live everyday with
 
 ---
 
-# 📂 Portfolio
+## 📂 Portfolio
 
 You can view my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rehobothjnr.pythonanywhere.com/).
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)</br> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ---
 
-# 💼 Projects
+## 💼 Projects
 [![Portfo](https://img.shields.io/badge/GitHub-portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/portfolio): This is a templates to my portfolio repository.</br>
 [![BlindAssist](https://img.shields.io/badge/GitHub-BlindAssist-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/blind_assist): A project that helps identify objects and give a real life description for blind person.</br>
 [![Link Shortener](https://img.shields.io/badge/GitHub-Link_shortener-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kehman18/Link_shortener): Useful in shortening links
 
 ---
 
-# 📧 Contact
+## 📧 Contact
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349028373561) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kehindeadekola96@gmail.com)
 
 ---
 
-# 📸 Interests
+## 📸 Interests
 
 I also have a passion for cars. Check out my automotive-related social media:
 
@@ -49,7 +49,7 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Kehinde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kehman18&show_icons=true&theme=radical)<br/>
 
@@ -64,7 +64,7 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ---
 
-# 🖼️ Image Gallery
+## 🖼️ Image Gallery
 
 * Placeholder for your Profile Image
 * Placeholder for Coding Snapshots
