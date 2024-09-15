@@ -64,13 +64,13 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ---
 
+<!--
 ## 🖼️ Image Gallery
 
 * Placeholder for your Profile Image
 * Placeholder for Coding Snapshots
 * Placeholder for Project Screenshots
 
-<!--
 **kehman18/kehman18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
