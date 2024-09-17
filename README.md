@@ -1,4 +1,4 @@
-# Hi there, I'm Kehinde Adekola 👋
+# Hi there 👋
 
 I am a Backend Web developer. I believe life is simple. So, I live everyday with my heads high.
 
