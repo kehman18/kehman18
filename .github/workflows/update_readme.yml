@@ -16,8 +16,8 @@ jobs:
         env:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
-          curl -o github_stats.svg "https://github-readme-stats.vercel.app/api?username=kehman18&show_icons=true&count_private=true&include_all_commits=true&theme=radical&token=${{ secrets.GH_STATS_TOKEN }}"
-          curl -o github_streak.svg "https://streak-stats.demolab.com/?user=kehman18&theme=radical&token=${{ secrets.GH_STATS_TOKEN }}"
+          curl -o github_stats.svg "https://github-readme-stats.vercel.app/api?username=kehman18&show_icons=true&count_private=true&include_all_commits=true&theme=radical&token=${{ secrets.GH_STATS_TOKEN }}&v=1"
+          curl -o github_streak.svg "https://streak-stats.demolab.com/?user=kehman18&theme=radical&token=${{ secrets.GH_STATS_TOKEN }}&v=1"
 
       - name: Commit updated stats
         run: |
