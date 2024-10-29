@@ -18,7 +18,7 @@ I am a passionate Backend Web developer, Web Scraper and Unittester with a flair
 
 ## 📂 Portfolio
 
-You can view my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rehobothjnr.pythonanywhere.com/).
+You can view my portfolio [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rehobothjnr.pythonanywhere.com/)
 
 ## 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -53,9 +53,11 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ## 📊 GitHub Stats
 
-![Kehinde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kehman18&show_icons=true&theme=radical)<br/>
+## GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kehman18&theme=dark&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kehman18&show_icons=true&count_private=true&include_all_commits=true&theme=default)<br/>
+
+![My Streak](https://streak-stats.demolab.com/?user=kehman18&theme=default)<br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehman18&show_icons=true&theme=radical)
 
