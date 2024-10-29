@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit updated stats
         run: |
-          git config --global user.name "YOUR_GITHUB_USERNAME"
-          git config --global user.email "YOUR_GITHUB_EMAIL"
+          git config --global user.name "kehman18"
+          git config --global user.email "kehindeadekola96@gmail.com"
           git add github_stats.svg github_streak.svg
           git commit -m "Update GitHub stats"
           git push
