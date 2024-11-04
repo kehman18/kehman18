@@ -51,6 +51,8 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ---
 
+<!--
+
 ## 📊 GitHub Stats
 
 ## GitHub Stats
@@ -68,7 +70,7 @@ I also have a passion for cars. Check out my automotive-related social media:
 
 ---
 
-<!--
+
 ## 🖼️ Image Gallery
 
 * Placeholder for your Profile Image
